@@ -1,0 +1,19 @@
+{
+  "name": "dmtools",
+  "version": "1.0.0",
+  "description": "Downloader Manager Tools",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaiSYST",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.0.0",
+    "python-shell": "^3.0.1",
+    "tpb-api": "^1.0.2",
+    "youtube-dl-wrap": "^2.1.1",
+    "ytdl-getinfo": "^1.1.0"
+  }
+}
